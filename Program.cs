@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Calculadora de console com histórico e tratamento de erros
+using System;
 using System.Collections.Generic;
 
 namespace CalculadoraConsole
